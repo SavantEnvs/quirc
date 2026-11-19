@@ -1,0 +1,8 @@
+alnum.pgm #0 size=25 version=2 ecc=3 mask=3 type=2 eci=0 flipped=0 payload=48454c4c4f20574f524c44203132332024252a2b2d2e2f3a
+byte.pgm #0 size=29 version=3 ecc=0 mask=5 type=4 eci=0 flipped=0 payload=68747470733a2f2f6578616d706c652e6f72672f71756972633f783d3126793d32
+eci_utf8.pgm #0 size=25 version=2 ecc=2 mask=7 type=4 eci=26 flipped=0 payload=68c3a96c6c6f2077c3b6726c64
+kanji.pgm #0 size=21 version=1 ecc=2 mask=0 type=8 eci=0 flipped=0 payload=935fe4aa
+mirrored.pgm #0 size=21 version=1 ecc=3 mask=4 type=2 eci=0 flipped=1 payload=4d4952524f524544205152203432
+mixed_segments.pgm #0 size=25 version=2 ecc=1 mask=5 type=4 eci=0 flipped=0 payload=414243313233616263
+numeric.pgm #0 size=21 version=1 ecc=3 mask=6 type=1 eci=0 flipped=0 payload=3031323334353637383930313233343536373839
+v10_byte.pgm #0 size=57 version=10 ecc=2 mask=4 type=4 eci=0 flipped=0 payload=71756972632076657273696f6e20736576656e2074657374207061796c6f61642071756972632076657273696f6e20736576656e2074657374207061796c6f61642071756972632076657273696f6e20736576656e2074657374207061796c6f616420

@@ -1,0 +1,9 @@
+project: savantenvs/quirc
+target: quirc_image
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/quirc_image/testsuite
+cmds:
+  - cmd: /mayhem/quirc_image_fuzzer
+    libfuzzer: true
+    timeout: 10
